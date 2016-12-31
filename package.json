@@ -1,12 +1,12 @@
 {
-  "name": "ah",
+  "name": "albert-heijn",
   "version": "1.0.0",
-  "description": "",
+  "description": "Albert Heijn (https://www.ah.nl/) API",
   "main": "index.js",
   "scripts": {
     "test": "ava"
   },
-  "author": "",
+  "author": "Artem Tyurin <artem.tyurin@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.22.0",

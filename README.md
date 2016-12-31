@@ -1,5 +1,7 @@
 ### albert-heijn
 
+Albert Heijn (https://www.ah.nl/) API.
+
 ```js
 const ah = require('albert-heijn');
 
