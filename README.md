@@ -1,4 +1,7 @@
-const ah = require('./index');
+### albert-heijn
+
+```js
+const ah = require('albert-heijn');
 
 const url = 'https://www.ah.nl/producten/product/wi33693/ah-halfvolle-melk';
 
@@ -19,3 +22,4 @@ ah.getNutritionFacts(url).then(console.log);
   'Vitamine B12': '0,47 µg',
   Calcium: '126 mg' }
 */
+```
