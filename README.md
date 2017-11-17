@@ -2,6 +2,8 @@
 
 Albert Heijn (https://www.ah.nl/) API.
 
+[Try live on RunKit](https://runkit.com/embed/c9aqe2qn0j54):
+
 ```js
 const ah = require('albert-heijn');
 
