@@ -1,6 +1,6 @@
 {
   "name": "albert-heijn",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Albert Heijn (https://www.ah.nl/) API",
   "main": "index.js",
   "scripts": {
