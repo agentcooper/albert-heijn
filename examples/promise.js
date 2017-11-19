@@ -1,4 +1,4 @@
-const ah = require('./index');
+const ah = require('../');
 
 const url = 'https://www.ah.nl/producten/product/wi33693/ah-halfvolle-melk';
 

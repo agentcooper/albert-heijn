@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/agentcooper/albert-heijn/issues"
   },
-  "homepage": "https://github.com/agentcooper/albert-heijn#readme"
+  "homepage": "https://github.com/agentcooper/albert-heijn#readme",
+  "runkitExampleFilename": "./examples/runkit.js"
 }
