@@ -1,4 +1,4 @@
-### albert-heijn
+### albert-heijn [![CircleCI](https://circleci.com/gh/agentcooper/albert-heijn.svg?style=svg)](https://circleci.com/gh/agentcooper/albert-heijn)
 
 Albert Heijn (https://www.ah.nl/) API.
 
