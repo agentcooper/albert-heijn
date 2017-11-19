@@ -2,7 +2,15 @@
 
 Albert Heijn (https://www.ah.nl/) API.
 
-[Try live on RunKit](https://runkit.com/embed/c9aqe2qn0j54):
+### Install
+
+```
+npm install albert-heijn
+```
+
+### Example
+
+Run in [RunKit playground](https://npm.runkit.com/albert-heijn).
 
 ```js
 const ah = require('albert-heijn');
