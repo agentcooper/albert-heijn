@@ -35,3 +35,7 @@ ah.getNutritionFacts(url).then(console.log);
   Calcium: '126 mg' }
 */
 ```
+
+### Similar projects
+
+- https://github.com/bartmachielsen/SupermarktConnector
